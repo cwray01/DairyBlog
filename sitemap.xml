@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cwray01.github.io/DairyBlog/2024/06/29/SOP-of-Everything/</loc>
+    
+    <lastmod>2024-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cwray01.github.io/DairyBlog/test-draft/index.html</loc>
+    
+    <lastmod>2024-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cwray01.github.io/DairyBlog/2024/06/29/one-more-hello/</loc>
+    
+    <lastmod>2024-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cwray01.github.io/DairyBlog/2024/06/24/hello-world/</loc>
     
     <lastmod>2024-06-23</lastmod>
@@ -13,11 +40,18 @@
 
   <url>
     <loc>https://cwray01.github.io/DairyBlog</loc>
-    <lastmod>2024-06-23</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://cwray01.github.io/DairyBlog/tags/memo/</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
